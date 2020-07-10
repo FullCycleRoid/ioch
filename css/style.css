@@ -2570,6 +2570,9 @@ img:not([src]) {
 		margin: 0 auto;
 		text-align: center
 	}
+	t102__descr {
+	  background-color: red;
+	}
 	.t228__right_descr, .t228__right_langs, .t228__right_social_links {
 		display: table;
 		padding: 10px 0;
